@@ -3,7 +3,9 @@
 ## 66 algorithmes de Machine Learning
 
 [**Linkdin**](https://www.linkedin.com/company/71517780/)
+
 [**Facobook**](https://www.facebook.com/IASSenegal)
+
 [**Web**](https://www.ias.sn/formations/home)
 
 **💡 Algorithme 1 : Analyse des composants principaux (Principal Component Analysis PCA)**: 
